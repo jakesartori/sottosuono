@@ -95,7 +95,7 @@ a {
 
 
 .navbar .logo a img {
-    max-width: 6rem;
+    max-width: 6vw;
     max-height: 5%;
     justify-content: left;
 }
